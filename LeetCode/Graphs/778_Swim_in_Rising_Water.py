@@ -1,7 +1,7 @@
 # 🧠 Problem: Swim in Rising Water
 # Platform: LeetCode
 # Author: Badreddine 
-# Tariqa: Union-Find (Disjoint Set)
+# Method: Union-Find (Disjoint Set)
 
 from typing import List
 
